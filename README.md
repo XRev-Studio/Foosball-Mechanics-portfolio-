@@ -1,8 +1,6 @@
-
-
 # VR Foosball
 
-![VR Foosball Banner](images/fossx1.png)
+![VR Foosball Banner](images/vrfoosball.png)
 
 **Experience the excitement of foosball like never before with VR Foosball! Dive into the world of virtual reality and challenge your friends or AI opponents to epic foosball matches in a stunning virtual environment. Crafted with precision by FoosballVR Studio.**
 
@@ -37,8 +35,8 @@ VR Foosball is not just a game; it's a reimagining of the classic foosball exper
 
 ### Gallery
 
-![VR Foosball Gameplay 1](images/fossx2.png)
-![VR Foosball Gameplay 2](images/foss3.png)
+![VR Foosball Gameplay 1](images/vrfoosball2.png)
+![VR Foosball Gameplay 2](images/vrfoosball3.png)
 
 ## 💻 Installation
 
@@ -70,9 +68,9 @@ Distributed under the XYZ License. See `LICENSE` for more information.
 
 ## 📞 Contact
 
-Xrev Studio
+FoosballVR Studio
 - Email: contact@foosballvrstudio.com
-- Twitter: [@xrevtudio](https://twitter.com/xrevVRStudio)
+- Twitter: [@FoosballVRStudio](https://twitter.com/FoosballVRStudio)
 
 ## 👏 Acknowledgements
 
