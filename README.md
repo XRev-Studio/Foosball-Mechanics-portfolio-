@@ -1,4 +1,4 @@
-    VR Foosball 
+
 ![VR Foosball Banner](images/fossx1.png)
 
 **Experience the thrill of foosball like never before with VR Foosball! Dive into a virtual reality world of fast-paced, tabletop soccer crafted by FoosVR Studio.**
