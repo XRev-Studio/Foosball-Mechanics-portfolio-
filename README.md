@@ -66,12 +66,11 @@ Distributed under the XYZ License. See `LICENSE` for more information.
 
 ## 📞 Contact
 
-  XREV studio 
-- Email: contact@xrev.com
-- Twitter: [@XREVstudio](https://twitter.com/FoosVRStudio)
+XREV Studio
+- Email: contact@xrevstudio.com
+- Twitter: [@XREVStudio](https://twitter.com/FoosVRStudio)
 
 ## 👏 Acknowledgements
 
 - [Unity Engine](https://unity.com/)
 - [SteamVR](https://developer.valvesoftware.com/wiki/SteamVR)
-
